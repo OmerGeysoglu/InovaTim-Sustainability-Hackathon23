@@ -6,5 +6,5 @@ https://drive.google.com/drive/folders/1id8ffrbCipSOSdNDofxEP2zCT0BiCXva?usp=dri
 
 ## Example Detected Video
 
-https://github.com/OmerGeysoglu/InovaTim-Sustainability-Hackathon23/assets/24161103/85c42508-48ae-471c-b2e1-5416709d812e
+https://github.com/OmerGeysoglu/InovaTim-Sustainability-Hackathon23/assets/24161103/ae74bfe3-7ee7-4a67-8c76-0718a066248b
 
